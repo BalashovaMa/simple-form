@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #e5eec1;
+}
+.app__form {
+  display: grid;
+  row-gap: 10px;
+}
+.appInput {
+  display: grid;
+  grid-template-columns: 100px auto;
+  text-align: left;
+  
+}
+
+
